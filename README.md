@@ -1,3 +1,3 @@
 # hello-world
 
-We love github.
+We love github. Hope you love it too.
